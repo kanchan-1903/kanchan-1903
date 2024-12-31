@@ -1,5 +1,3 @@
-![logo](https://www.canva.com/design/DAGBdT9nvTU/l9FjAxXpwFHHtFTt78qBXg/view)
-
 <h1 align="center">Hi 👋, I'm Kanchan Chaurasiya</h1>
 <h3 align="center">"Empowering Technology to Shape Tomorrow's World"</h3>
 
