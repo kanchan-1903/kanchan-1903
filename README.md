@@ -4,7 +4,7 @@
 <h3 align="center">"Empowering Technology to Shape Tomorrow's World"</h3>
 
 <p align="left">- 🔭 I’m currently working as Web Development<br>
-  - 🌱 I’m currently learning full stack Web Development<br>
+  - 🌱 I’m currently learning Spring Boot<br>
   -💬 Ask me about Web Development, JAVA<br>
   - ⚡ Fun fact CAPTCHA Means Something😅!
 </p>
