@@ -2,15 +2,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kanchan+Chaurasiya!;" />
 </h1>
 <h3 align="center">"Empowering Technology to Shape Tomorrow's World"</h3>
+<h6 align="center">A passionate Java full stack developer</h6>
 
-<p align="left">- 🔭 I’m currently working as Web Development<br>
-  - 🌱 I’m currently learning Spring Boot<br>
-  -💬 Ask me about Web Development, JAVA<br>
-  - ⚡ Fun fact CAPTCHA Means Something😅!
+<p align="left">
+    
+- 🔭 I’m currently working as Web Development<br>
+- 🌱 Learning Spring Boot
+- 💬 Ask me about **JAVA , Web Development**  
+- 📫 How to reach me **kanchanchaurasiya3074@gmail.com**
+- ⚡ Fun fact **: Full Time Software Engineer Part-time Cooking**
 </p>
 
 <div align="center">
-  <img  alt="coding" width="300" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif" > 
+  <img  alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz49pzG7CLExHaaewN5QE9HJHvxJGAlW2ZMw&s" > 
 
 </div>
 
