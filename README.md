@@ -10,7 +10,7 @@
 - 🌱 Learning Spring Boot
 - 💬 Ask me about **JAVA , Web Development**  
 - 📫 How to reach me **kanchanchaurasiya3074@gmail.com**
-- ⚡ Fun fact **: Full Time Software Engineer Part-time Cooking**
+- ⚡ Fun fact **: Full Time Software Engineer Part-time Cooking & Gardening**
 </p>
 
 <div align="center">
