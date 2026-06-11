@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">
-  <img  alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz49pzG7CLExHaaewN5QE9HJHvxJGAlW2ZMw&s" > 
+  <img  alt="coding" width="300" src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/520d0b7d-f2e7-4dee-82e2-1ca6f8dad9ee/remote-work.gif?t=1720505017" > 
 
 </div>
 
