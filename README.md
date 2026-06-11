@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">
-  <img  alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz49pzG7CLExHaaewN5QE9HJHvxJGAlW2ZMw&s" > 
+  <img  alt="coding" width="300" src="https://www.wallpaperflare.com/anime-girl-blushing-using-the-computer-anime-other-hd-art-books-wallpaper-qgubi" > 
 
 </div>
 
