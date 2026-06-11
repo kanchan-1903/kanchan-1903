@@ -25,6 +25,7 @@
 
 <p align="center">
     <img src="https://en.wikipedia.org/wiki/Python_%28programming_language%29" alt="python" width="40" height="40"/>
+    <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/11/python-github-king.jpg?ssl=1" alt="python" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
