@@ -14,7 +14,7 @@
 </p>
 
 <div align="center">
-  <img  alt="coding" width="300" src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/520d0b7d-f2e7-4dee-82e2-1ca6f8dad9ee/remote-work.gif?t=1720505017" width="150" height="170" > 
+  <img  alt="coding" width="300" src="https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/520d0b7d-f2e7-4dee-82e2-1ca6f8dad9ee/remote-work.gif?t=1720505017" width="1700" height="180" > 
 
 </div>
 
