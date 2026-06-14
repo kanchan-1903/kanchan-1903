@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kanchan+Chaurasiya!;" />
 </h1>
 <h3 align="center">"Empowering Technology to Shape Tomorrow's World"</h3>
-<h6 align="center">A passionate Artifitial Intelligence</h6>
+<h6 align="center">Aspiring Data Scientist | Python | SQL | Excel | Machine Learning | Data Visualization</h6>
 
 <p align="left">
     
